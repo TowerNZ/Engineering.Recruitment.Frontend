@@ -1,9 +1,9 @@
 # Assignment
 Create a one page application following the LO-FIs given in this assignment. We suggest to use create-react-app typescript for your setup to kickstart your work.
 
-Juniors can do either the backend or frontend test. Ask your recruiter for which one you should do. Intermediate engineers and above are also expected to complete both tests.
+Juniors can do either the backend or frontend assignment. Ask your recruiter for which one you should do. Intermediate engineers and above are also expected to complete both assignments.
 
-You can find the backend test here: [Backend test](https://github.com/TowerNZ/Engineering.Recruitment.Backend)
+You can find the backend assignment here: [Backend Assignment](https://github.com/TowerNZ/Engineering.Recruitment.Backend)
 
 ## LO-FI
 Remember these are LO-FI and should only be treated as such.
